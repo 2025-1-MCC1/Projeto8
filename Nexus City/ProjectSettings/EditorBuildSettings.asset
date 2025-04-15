@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FasePV.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/ProximaFase.unity
+    guid: 0fe7f461699964240b733eaf435c42c6
+  - enabled: 1
+    path: Assets/Scenes/cenateste.unity
+    guid: 51b91c497e293254390111a0520d373e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
