@@ -12,9 +12,9 @@ Vide tutoriais do PI.
 
 # Nexus City
 
-## Nome do Grupo
+## Nome do Grupo: Visionarios da Computação
 
-## Integrantes: <a href="https://www.linkedin.com/in/pedro-vitor-149051349/">Pedro Vitor</a>, <a href="https://www.linkedin.com/in/ricardo-santos-6b92b4346/">Ricardo Oliveira</a>, <a href="http://www.linkedin.com/in/stefanysocubertino">Stefany Oliveira</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/pedro-vitor-149051349/">Pedro Vitor</a>, <a href="https://www.linkedin.com/in/ricardo-santos-6b92b4346/">Ricardo Oliveira</a>, <a href="http://www.linkedin.com/in/stefanysocubertino">Stefany Oliveira</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
