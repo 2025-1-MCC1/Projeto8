@@ -1,16 +1,14 @@
 using UnityEngine;
-using System.Collections.Generic;
 using UnityEngine.SceneManagement;
-using System.Collections;
-using JetBrains.Annotations;
+
 public class PassouDeFase : MonoBehaviour
 {
-   
-    
-    
-        public string ProximaFase;
+    // Nome da próxima cena que será carregada
+    public string ProximaFase;
+
     private void OnTriggerEnter(Collider collider)
     {
+        // Quando algum objeto entra no trigger, carrega a próxima fase
         SceneManager.LoadScene(ProximaFase);
     }
 }

@@ -1,7 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-using System;
 
 public class Vida : MonoBehaviour
 {
@@ -10,19 +9,21 @@ public class Vida : MonoBehaviour
 
     public int danoRecebido = 100;
     public Slider barraDeVida;
-
-    public GameObject painelGameOver; // Referência para o painel de Game Over
+    public GameObject painelGameOver;
 
     void Start()
     {
         vidaAtual = vidaMaxima;
         AtualizarBarraDeVida();
+
+        // Oculta o painel de Game Over no início do jogo
         if (painelGameOver != null)
-            painelGameOver.SetActive(false); // Garante que comece desativado
+            painelGameOver.SetActive(false);
     }
 
     private void OnTriggerEnter(Collider outro)
     {
+        // Verifica se o objeto que colidiu tem a tag "Dano"
         if (outro.CompareTag("Dano"))
         {
             LevarDano(danoRecebido);
@@ -54,23 +55,20 @@ public class Vida : MonoBehaviour
     void Morrer()
     {
         Debug.Log("O personagem morreu!");
+
+        // Exibe o painel de Game Over
         if (painelGameOver != null)
             painelGameOver.SetActive(true);
 
-        // Você pode também pausar o tempo do jogo se quiser:
+        // Opcional: pausar o jogo
         // Time.timeScale = 0;
     }
 
-    // Essa função será chamada pelo botão "Tentar Novamente"
     public void ReiniciarJogo()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        // Se tiver pausado o tempo, ative de novo:
-        // Time.timeScale = 1;
-    }
 
-    internal void TakeDamage(int damageAmount)
-    {
-        throw new NotImplementedException();
+        // Opcional: retomar o tempo se estiver pausado
+        // Time.timeScale = 1;
     }
 }
