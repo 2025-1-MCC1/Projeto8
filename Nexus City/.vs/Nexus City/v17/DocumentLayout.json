@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\proximacena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\proximacena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\users\\duard\\documents\\github\\projeto8\\nexus city\\assets\\script\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\passoudefase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passoudefase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\users\\duard\\documents\\github\\projeto8\\nexus city\\assets\\script\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\users\\duard\\documents\\github\\projeto8\\nexus city\\assets\\script\\proximacena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\proximacena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Movimento.cs",
-              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Movimento.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Movimento.cs",
-              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Movimento.cs",
-              "RelativeToolTip": "Assets\\script\\Movimento.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "camera.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\camera.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\camera.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\camera.cs",
+              "RelativeToolTip": "Assets\\script\\camera.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T13:22:29.361Z",
+              "WhenOpened": "2025-04-22T19:38:38.117Z",
               "EditorCaption": ""
             },
             {
@@ -47,39 +51,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Movimento.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Movimento.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Movimento.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Movimento.cs",
+              "RelativeToolTip": "Assets\\script\\Movimento.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T13:22:29.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Vida.cs",
               "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Vida.cs",
               "RelativeDocumentMoniker": "Assets\\script\\Vida.cs",
               "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Vida.cs",
               "RelativeToolTip": "Assets\\script\\Vida.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-19T17:34:20.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PassouDeFase.cs",
               "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\PassouDeFase.cs",
               "RelativeDocumentMoniker": "Assets\\script\\PassouDeFase.cs",
               "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\PassouDeFase.cs",
               "RelativeToolTip": "Assets\\script\\PassouDeFase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T00:13:36.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProximaCena.cs",
               "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\ProximaCena.cs",
               "RelativeDocumentMoniker": "Assets\\script\\ProximaCena.cs",
               "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\ProximaCena.cs",
               "RelativeToolTip": "Assets\\script\\ProximaCena.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-14T23:32:26.666Z",
               "EditorCaption": ""
