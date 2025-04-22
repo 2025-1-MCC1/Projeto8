@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\users\\duard\\documents\\github\\projeto8\\nexus city\\assets\\script\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\duard\\documents\\github\\projeto8\\nexus city\\assets\\script\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\vida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameManager.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\script\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T03:09:07.059Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -51,18 +64,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\GameManager.cs",
-              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\GameManager.cs",
-              "RelativeToolTip": "Assets\\script\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T03:09:07.059Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Vida.cs",
               "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Vida.cs",
@@ -71,8 +72,7 @@
               "RelativeToolTip": "Assets\\script\\Vida.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowB4AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T17:34:20.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T17:34:20.939Z"
             },
             {
               "$type": "Document",
