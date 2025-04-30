@@ -16,7 +16,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://www.linkedin.com/in/pedro-vitor-149051349/">Pedro Vitor</a>, <a href="https://www.linkedin.com/in/ricardo-santos-6b92b4346/">Ricardo Oliveira</a>, <a href="http://www.linkedin.com/in/stefanysocubertino">Stefany Oliveira</a>, <a href="https://br.linkedin.com/in/lucio-vecchio">Lúcio Vecchio</a> 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/luisspires/?originalSubdomain=br">Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/luisspires/?originalSubdomain=br">Luis Fernando dos Santos Pires</a>, <a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a> <a href"https://www.linkedin.com/school/fecap/posts/?feedView=all">Joyce Daniele Tavares</a>
 
 ## Descrição
 
