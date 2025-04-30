@@ -74,9 +74,8 @@ Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro progra
 
 
 ## 📋 Licença/License
-Este projeto está licenciado sob a Creative Commons BY-SA 4.0.
-Nexus City © 2025 by is licensed under CC BY-SA 4.0 
 
+Nexus City © 2025 by is licensed under CC BY-SA 4.0 <br/>
 <p dir="auto">Este projeto está licenciado sob a <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="nofollow">Creative Commons BY-SA 4.0</a>.</p>
 
 ## 🎓 Referências
