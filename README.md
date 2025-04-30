@@ -91,6 +91,9 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
+1.Faça o download do arquivo do jogo: .exe 
+2.Dê um duplo clique no arquivo para abrir e começar a jogar.
+
 Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
 
 Para abrir este projeto você necessita das seguintes ferramentas:
