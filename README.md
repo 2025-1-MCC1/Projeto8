@@ -84,4 +84,4 @@ Aqui estão as referências usadas no projeto.
 2. <a href="https://store.epicgames.com/pt-BR/p/cities-skylines">Cities Skylines</a>
 3. <a href="https://freesound.org/">Free sound</a>
 4. <a href="https://assetstore.unity.com/packages/3d/environments/urban/free-low-poly-simple-urban-city-3d-asset-pack-239474"> Asset City</a>
-5. <a href="https://creativecommons.org/share-your-work/">Licença</a>
+5. <a href="https://creativecommons.org/share-your-work/">License</a>
