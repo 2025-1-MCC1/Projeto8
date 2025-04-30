@@ -80,8 +80,8 @@ Nexus City © 2025 by is licensed under CC BY-SA 4.0
 
 Aqui estão as referências usadas no projeto.
 
-1. <https://pt.wikipedia.org/wiki/Mega_Man_X7>
-2. <https://store.epicgames.com/pt-BR/p/cities-skylines>
-3. <https://freesound.org/>
-4. <https://assetstore.unity.com/packages/3d/environments/urban/free-low-poly-simple-urban-city-3d-asset-pack-239474>
-5. <https://creativecommons.org/share-your-work/>
+1. <a href="https://pt.wikipedia.org/wiki/Mega_Man_X7">MEGA Man x7</a>
+2. <a href="https://store.epicgames.com/pt-BR/p/cities-skylines">Cities Skylines</a>
+3. <a href="https://freesound.org/">Free sound</a>
+4. <a href="https://assetstore.unity.com/packages/3d/environments/urban/free-low-poly-simple-urban-city-3d-asset-pack-239474"> Asset City</a>
+5. <a href="https://creativecommons.org/share-your-work/">Licença</a>
