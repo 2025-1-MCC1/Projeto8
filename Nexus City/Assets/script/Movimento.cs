@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Movimento : MonoBehaviour
@@ -74,7 +75,12 @@ public class Movimento : MonoBehaviour
         {
             animator.SetBool("correndo", false);
         }
+
+        
     }
+    
+    
+    
 }
         
    

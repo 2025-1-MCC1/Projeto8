@@ -2,12 +2,12 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class Vida : MonoBehaviour
+/*public class Vida : MonoBehaviour
 {
     public int vidaMaxima = 100;
     private int vidaAtual;
 
-    public int danoRecebido = 10;
+    public int danoRecebido = 100;
     public Slider barraDeVida;
     public GameObject painelGameOver;
 
@@ -24,9 +24,9 @@ public class Vida : MonoBehaviour
     private void OnTriggerEnter(Collider outro)
     {
         // Verifica se o objeto que colidiu tem a tag "Dano"
-        if (outro.gameObject.tag == "Dano")
+        if (outro.CompareTag("Dano"))
         {
-            vidaAtual = vidaAtual - danoRecebido;
+            LevarDano(danoRecebido);
         }
     }
 
@@ -71,4 +71,7 @@ public class Vida : MonoBehaviour
         // Opcional: retomar o tempo se estiver pausado
         // Time.timeScale = 1;
     }
-}
+}*/
+
+
+
