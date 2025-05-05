@@ -7,6 +7,9 @@ TagManager:
   - Dano
   - Barrier
   - Enemy
+  - tag
+  - Drone
+  - PowerUp
   layers:
   - Default
   - TransparentFX

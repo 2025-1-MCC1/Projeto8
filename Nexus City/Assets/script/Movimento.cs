@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Movimento : MonoBehaviour
 {
-    private CharacterController character;
+    public  CharacterController character;
     private Animator animator;
     private Vector2 input;
 
@@ -11,9 +11,9 @@ public class Movimento : MonoBehaviour
     private float forcaY;
     private bool podePular = true;
 
-    private bool estaNoChao;
+    public bool estaNoChao;
     [SerializeField] private LayerMask colisaoLayer;
-    [SerializeField] private Transform peDoPersonagem;
+    [SerializeField] public Transform peDoPersonagem;
 
     private float gravidade = -20f;
     private float forcaPulo = 10f;
