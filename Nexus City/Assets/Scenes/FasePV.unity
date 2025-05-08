@@ -208,11 +208,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 22362909}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e5c9fd1ad81f744d97902f592bfd628, type: 3}
+  m_Script: {fileID: 11500000, guid: 558a5e966873b97459ed37dc0083d579, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  height: 2
+  speed: 4
+  height: 1
 --- !u!54 &22362911
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -548,7 +548,7 @@ PrefabInstance:
     - target: {fileID: 3864080892839398687, guid: d18e3c639d13e2d498416a3c5009462c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 91357f332acef754daabd20d0e3afe25, type: 2}
+      objectReference: {fileID: 2100000, guid: 3964cd9a54a8c924fbadb5c9439cc5f3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4812,11 +4812,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1165618201}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e5c9fd1ad81f744d97902f592bfd628, type: 3}
+  m_Script: {fileID: 11500000, guid: 558a5e966873b97459ed37dc0083d579, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
-  height: 2
+  speed: 2
+  height: 1
 --- !u!54 &1165618203
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5408,7 +5408,7 @@ PrefabInstance:
     - target: {fileID: 3864080892839398687, guid: d18e3c639d13e2d498416a3c5009462c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 91357f332acef754daabd20d0e3afe25, type: 2}
+      objectReference: {fileID: 2100000, guid: 3964cd9a54a8c924fbadb5c9439cc5f3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5468,11 +5468,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1230827911}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e5c9fd1ad81f744d97902f592bfd628, type: 3}
+  m_Script: {fileID: 11500000, guid: 558a5e966873b97459ed37dc0083d579, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
-  height: 2
+  speed: 3
+  height: 1
 --- !u!54 &1230827913
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5665,7 +5665,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1279315615
 Transform:
   m_ObjectHideFlags: 0
@@ -5815,7 +5815,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1280928814
 Transform:
   m_ObjectHideFlags: 0
@@ -6773,7 +6773,7 @@ PrefabInstance:
     - target: {fileID: 3864080892839398687, guid: d18e3c639d13e2d498416a3c5009462c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 91357f332acef754daabd20d0e3afe25, type: 2}
+      objectReference: {fileID: 2100000, guid: 3964cd9a54a8c924fbadb5c9439cc5f3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6929,7 +6929,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0209c1757198e4047b1b4f3212febfd1, type: 2}
+  - {fileID: 2100000, guid: b273d0c8a97b98b43b29c75e5d3d1e9d, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6983,7 +6983,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1499165416}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 81db13a266f114e48b0fdd730e2d353a, type: 3}
+  m_Script: {fileID: 11500000, guid: 221f105131e6e064bbcceeda6a1b557c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   mensagemTMP: {fileID: 1317716561}
@@ -7384,7 +7384,7 @@ PrefabInstance:
     - target: {fileID: 3864080892839398687, guid: d18e3c639d13e2d498416a3c5009462c, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 91357f332acef754daabd20d0e3afe25, type: 2}
+      objectReference: {fileID: 2100000, guid: 3964cd9a54a8c924fbadb5c9439cc5f3, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7941,11 +7941,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1880704016}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e5c9fd1ad81f744d97902f592bfd628, type: 3}
+  m_Script: {fileID: 11500000, guid: 558a5e966873b97459ed37dc0083d579, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  height: 2
+  height: 3
 --- !u!54 &1880704018
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -8417,10 +8417,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41cb7644e1cb1b94d802725d15115b2f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vidaMaxima: 100
-  danoRecebido: 10
-  barraDeVida: {fileID: 123506007}
-  painelGameOver: {fileID: 0}
 --- !u!114 &2001692363
 MonoBehaviour:
   m_ObjectHideFlags: 0
