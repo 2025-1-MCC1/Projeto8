@@ -84,6 +84,7 @@ Aqui estão as referências usadas no projeto.
 
 1. <a href="https://pt.wikipedia.org/wiki/Mega_Man_X7">MEGA Man x7</a>
 2. <a href="https://store.epicgames.com/pt-BR/p/cities-skylines">Cities Skylines</a>
+3. <a href="https://pt.wikipedia.org/wiki/Prince_of_Persia_(jogo_eletr%C3%B4nico_de_1989)">Prince of Persia (1989)</a>
 3. <a href="https://freesound.org/">Free sound</a>
 4. <a href="https://assetstore.unity.com/packages/3d/environments/urban/free-low-poly-simple-urban-city-3d-asset-pack-239474"> Asset City</a>
 5. <a href="https://creativecommons.org/share-your-work/">License</a>
