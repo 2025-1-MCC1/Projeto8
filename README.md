@@ -26,7 +26,7 @@ Vide tutoriais do PI.
 
 <p align="center">
 
- <img src="https://github.com/2025-1-MCC1/Projeto8/blob/main/Imagens/NEXUS%20CITY.png?raw=true" alt="NOME DO JOGO" border="0"> Game by <a href="https://www.linkedin.com/in/pedro-vitor-149051349/">Pedro Vitor</a>, <a href="https://www.linkedin.com/in/ricardo-santos-6b92b4346/">Ricardo Oliveira</a>, <a href="http://www.linkedin.com/in/stefanysocubertino">Stefany Oliveira</a>, <a href="https://br.linkedin.com/in/lucio-vecchio">Lúcio Vecchio</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+ <img src="https://github.com/2025-1-MCC1/Projeto8/blob/main/Imagens/NEXUS%20CITY.png?raw=true" alt="NOME DO JOGO" border="0"> Game by <a href="https://www.linkedin.com/in/pedro-vitor-149051349/">Pedro Vitor</a>, <a href="https://www.linkedin.com/in/ricardo-santos-6b92b4346/">Ricardo Oliveira</a>, <a href="http://www.linkedin.com/in/stefanysocubertino">Stefany Oliveira</a>, <a href="https://br.linkedin.com/in/lucio-vecchio">Lúcio Vecchio</a> 
 </p>
 
 
