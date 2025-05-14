@@ -79,8 +79,7 @@ Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro progra
 
 ## 📋 Licença/License
 
-Nexus City © 2025 by is licensed under CC BY-SA 4.0 <br/>
-<p dir="auto">Este projeto está licenciado sob a <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="nofollow">Creative Commons BY-SA 4.0</a>.</p>
+<a href="https://github.com/2025-1-MCC1/Projeto8">Nexus City</a> © 2025 by <a href="https://github.com/2025-1-MCC1/Projeto8"> Pedro Vitor, Ricardo Oliveira, Stefany Oliveira, Lúcio Vecchio</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
