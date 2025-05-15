@@ -105,6 +105,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\script\LoadScene\ProximaCena.cs" />
+    <Compile Include="Assets\script\TransiçãoDeCenas.cs" />
     <Compile Include="Assets\script\Player\Health.cs" />
     <Compile Include="Assets\script\PainelSolar\SimplePuzzle.cs" />
     <Compile Include="Assets\script\Coletaveis\PowerUpDrone.cs" />

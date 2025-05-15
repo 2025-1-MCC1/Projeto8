@@ -6,6 +6,7 @@ public class PainelSolarPuzzle : MonoBehaviour
     public Button[] fios; // 3 fios
     public Button[] terminais; // 3 terminais
     public Button botaoConcluir;
+    public Button botaoSair;     // Botão para sair do puzzle
 
     private int fioSelecionado = -1;
     private bool[] conectado = new bool[3];
@@ -25,6 +26,8 @@ public class PainelSolarPuzzle : MonoBehaviour
         }
 
         botaoConcluir.onClick.AddListener(FinalizarPuzzle);
+
+        botaoSair.onClick.AddListener(SairDoPuzzle);
     }
 
     void SelecionarFio(int index)
@@ -69,4 +72,16 @@ public class PainelSolarPuzzle : MonoBehaviour
             Debug.Log("Ainda falta ligar algum fio!");
         }
     }
+    void SairDoPuzzle()
+    {
+        Debug.Log("Saindo do puzzle...");
+
+        // Aqui você pode decidir o que fazer quando o jogador sair do puzzle:
+        // 1. Desativa o painel do puzzle.
+        // 2. Retorna para o menu principal ou cena anterior.
+
+        gameObject.SetActive(false); // Desativa o painel do puzzle
+        Time.timeScale = 1f; // Se o jogo foi pausado, retoma o tempo normal
+    }
 }
+

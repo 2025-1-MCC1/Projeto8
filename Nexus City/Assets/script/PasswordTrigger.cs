@@ -5,6 +5,7 @@ public class PasswordTrigger : MonoBehaviour
     public GameObject passwordPanel;
     public MonoBehaviour playerController; // referência ao controlador do jogador
 
+
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Player"))
