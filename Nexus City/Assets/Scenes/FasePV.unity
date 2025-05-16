@@ -8131,7 +8131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 410b0ec34b6982047acf00dfbc72bd62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vidaAtual: 0
+  vidaAtual: 100
   vidaMaxima: 100
   healthBar: {fileID: 123506008}
 --- !u!1 &2026878214 stripped
