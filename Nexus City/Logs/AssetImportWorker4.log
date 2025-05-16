@@ -1,29 +1,29 @@
 Using pre-set license
 Built from '6000.0/staging' branch; Version is '6000.0.38f1 (82314a941f2d) revision 8532298'; Using compiler version '193933523'; Build Type 'Release'
-OS: 'Windows 11  (10.0.26100) 64bit CoreSingleLanguage' Language: 'pt' Physical Memory: 6081 MB
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'pt' Physical Memory: 7880 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\6000.0.38f1\Editor\Unity.exe
+C:\Program Files\Unity 6000.0.38f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker4
 -projectPath
-C:/aaa/Projeto8/Nexus City
+C:/Users/25027513/Documents/GitHub/novoo/Projeto8/Nexus City
 -logFile
 Logs/AssetImportWorker4.log
 -srvPort
-56326
+53971
 -job-worker-count
-3
+9
 -background-job-worker-count
 8
 -gc-helper-count
 1
-Successfully changed project path to: C:/aaa/Projeto8/Nexus City
-C:/aaa/Projeto8/Nexus City
+Successfully changed project path to: C:/Users/25027513/Documents/GitHub/novoo/Projeto8/Nexus City
+C:/Users/25027513/Documents/GitHub/novoo/Projeto8/Nexus City
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -59,13 +59,19 @@ C:/aaa/Projeto8/Nexus City
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [32020]  Target information:
+Player connection [20712]  Target information:
 
-Player connection [32020]  * "[IP] 10.1.1.177 [Port] 0 [Flags] 2 [Guid] 1976599182 [EditorId] 1976599182 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-G002310R) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [20712]  * "[IP] 10.1.34.71 [Port] 0 [Flags] 2 [Guid] 2257539044 [EditorId] 2257539044 [Version] 1048832 [Id] WindowsEditor(7,350-39) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [32020] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [32020] Host joined alternative multi-casting on [225.0.0.222:34997]...
-JobSystem: Creating JobQueue using job-worker-count value 3
+Player connection [20712]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2257539044 [EditorId] 2257539044 [Version] 1048832 [Id] WindowsEditor(7,350-39) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20712]  * "[IP] 172.27.32.1 [Port] 0 [Flags] 2 [Guid] 2257539044 [EditorId] 2257539044 [Version] 1048832 [Id] WindowsEditor(7,350-39) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20712]  * "[IP] 192.168.137.1 [Port] 0 [Flags] 2 [Guid] 2257539044 [EditorId] 2257539044 [Version] 1048832 [Id] WindowsEditor(7,350-39) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20712] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20712] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 9
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
@@ -76,62 +82,74 @@ Library Redirect Path: Library/
 [Physics::Module] SDK Version: 4.1.2
 [Physics::Module] Integration Version: 1.0.0
 [Physics::Module] Threading Mode: Multi-Threaded
-Refreshing native plugins compatible for Editor in 6.34 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 7.89 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.0.38f1 (82314a941f2d)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/aaa/Projeto8/Nexus City/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 6000.0.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/25027513/Documents/GitHub/novoo/Projeto8/Nexus City/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
-    Vendor:   ATI
-    VRAM:     3040 MB
-    Driver:   31.0.21921.1000
+    Renderer: Intel(R) UHD Graphics 770 (ID=0x4680)
+    Vendor:   Intel
+    VRAM:     3940 MB
+    Driver:   32.0.101.6078
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56436
+Mono path[0] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity 6000.0.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56696
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.013509 seconds.
-- Loaded All Assemblies, in  0.925 seconds
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.028139 seconds.
+- Loaded All Assemblies, in  0.938 seconds
+Native extension for LinuxStandalone target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 577 ms
+Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.417 seconds
-Domain Reload Profiling: 2334ms
-	BeginReloadAssembly (340ms)
+- Finished resetting the current domain, in  0.884 seconds
+Domain Reload Profiling: 1816ms
+	BeginReloadAssembly (349ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (81ms)
-	RebuildNativeTypeToScriptingClass (19ms)
-	initialDomainReloadingComplete (109ms)
-	LoadAllAssembliesAndSetupDomain (367ms)
-		LoadAssemblies (335ms)
+	RebuildCommonClasses (68ms)
+	RebuildNativeTypeToScriptingClass (22ms)
+	initialDomainReloadingComplete (123ms)
+	LoadAllAssembliesAndSetupDomain (370ms)
+		LoadAssemblies (347ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (361ms)
-			TypeCache.Refresh (358ms)
-				TypeCache.ScanAssembly (331ms)
+		AnalyzeDomain (359ms)
+			TypeCache.Refresh (354ms)
+				TypeCache.ScanAssembly (325ms)
 			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (1418ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (885ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1309ms)
+		SetupLoadedEditorAssemblies (783ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (771ms)
+			InitializePlatformSupportModulesInManaged (276ms)
 			SetLoadedEditorAssemblies (9ms)
-			BeforeProcessingInitializeOnLoad (125ms)
-			ProcessInitializeOnLoadAttributes (279ms)
-			ProcessInitializeOnLoadMethodAttributes (125ms)
+			BeforeProcessingInitializeOnLoad (113ms)
+			ProcessInitializeOnLoadAttributes (257ms)
+			ProcessInitializeOnLoadMethodAttributes (127ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -140,10 +158,16 @@ Domain Reload Profiling: 2334ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  1.946 seconds
-Refreshing native plugins compatible for Editor in 2.46 ms, found 3 plugins.
+- Loaded All Assemblies, in  1.844 seconds
+Refreshing native plugins compatible for Editor in 3.72 ms, found 3 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
 Native extension for Android target not found
+Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
 The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
 UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
@@ -159,230 +183,218 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 (Filename: ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
 
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.613 seconds
-Domain Reload Profiling: 3547ms
-	BeginReloadAssembly (321ms)
+- Finished resetting the current domain, in  1.798 seconds
+Domain Reload Profiling: 3629ms
+	BeginReloadAssembly (378ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
+		DisableScriptedObjects (12ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (50ms)
-	RebuildCommonClasses (72ms)
-	RebuildNativeTypeToScriptingClass (27ms)
-	initialDomainReloadingComplete (89ms)
-	LoadAllAssembliesAndSetupDomain (1424ms)
-		LoadAssemblies (1081ms)
+		CreateAndSetChildDomain (69ms)
+	RebuildCommonClasses (67ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (71ms)
+	LoadAllAssembliesAndSetupDomain (1296ms)
+		LoadAssemblies (954ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (542ms)
-			TypeCache.Refresh (405ms)
-				TypeCache.ScanAssembly (375ms)
-			BuildScriptInfoCaches (98ms)
-			ResolveRequiredComponents (34ms)
-	FinalizeReload (1614ms)
+		AnalyzeDomain (566ms)
+			TypeCache.Refresh (406ms)
+				TypeCache.ScanAssembly (349ms)
+			BuildScriptInfoCaches (119ms)
+			ResolveRequiredComponents (32ms)
+	FinalizeReload (1799ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1219ms)
+		SetupLoadedEditorAssemblies (1373ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (28ms)
-			SetLoadedEditorAssemblies (8ms)
-			BeforeProcessingInitializeOnLoad (232ms)
-			ProcessInitializeOnLoadAttributes (748ms)
-			ProcessInitializeOnLoadMethodAttributes (187ms)
-			AfterProcessingInitializeOnLoad (15ms)
-			EditorAssembliesLoaded (0ms)
+			InitializePlatformSupportModulesInManaged (72ms)
+			SetLoadedEditorAssemblies (13ms)
+			BeforeProcessingInitializeOnLoad (233ms)
+			ProcessInitializeOnLoadAttributes (823ms)
+			ProcessInitializeOnLoadMethodAttributes (218ms)
+			AfterProcessingInitializeOnLoad (13ms)
+			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (13ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 3.04 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 3.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 213 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6011 unused Assets / (4.9 MB). Loaded Objects now: 6718.
-Memory consumption went from 160.4 MB to 155.5 MB.
-Total: 15.325400 ms (FindLiveObjects: 1.258600 ms CreateObjectMapping: 1.260300 ms MarkObjects: 8.093800 ms  DeleteObjects: 4.710700 ms)
+Unloading 214 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6011 unused Assets / (4.0 MB). Loaded Objects now: 6735.
+Memory consumption went from 170.4 MB to 166.4 MB.
+Total: 13.374300 ms (FindLiveObjects: 1.654400 ms CreateObjectMapping: 0.698900 ms MarkObjects: 7.499700 ms  DeleteObjects: 3.517700 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1130677.866137 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/Run1Backwards.fbx
-  artifactKey: Guid(43ef596f78225224cb7f83a461194e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/Run1Backwards.fbx using Guid(43ef596f78225224cb7f83a461194e6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a671d8b5dedd95c6fd013c33f0d43edd') in 0.0784512 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.238163 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1BL.fbx
-  artifactKey: Guid(c61cb4bd125007e4a83393ff033e4689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1BL.fbx using Guid(c61cb4bd125007e4a83393ff033e4689) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '05d60e51c35cfaa21075270b3c52c57a') in 0.0085772 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.503460 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1BR.fbx
-  artifactKey: Guid(783ab4114902b6a40a73e98ae8eed6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1BR.fbx using Guid(783ab4114902b6a40a73e98ae8eed6ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16a74e0f584e7a1bb95fdfe36f41f0d7') in 0.0113495 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.824415 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1F.fbx
-  artifactKey: Guid(e6d40ad7ea567f142b50c4e65d3ab030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1F.fbx using Guid(e6d40ad7ea567f142b50c4e65d3ab030) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b966746a66ec19a4d4d28ae59eab4b08') in 0.0086865 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.655858 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1FL.fbx
-  artifactKey: Guid(ba511ca48dc3da344873ad895c348f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1FL.fbx using Guid(ba511ca48dc3da344873ad895c348f5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13b0e9974a0df51dddcf80c36ad7a191') in 0.0128607 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.319413 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1FR.fbx
-  artifactKey: Guid(4ce97366434c71842934c916abcd2665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1FR.fbx using Guid(4ce97366434c71842934c916abcd2665) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9dbd49628c4d93b80f3807b71acda105') in 0.0106925 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.077452 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1L.fbx
-  artifactKey: Guid(3188e42eb0ee6584a8bd6854f755d63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1L.fbx using Guid(3188e42eb0ee6584a8bd6854f755d63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e8810258158c35126f6f4dec8b5a2c3') in 0.0101777 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.984035 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1R.fbx
-  artifactKey: Guid(a6234aa106c48fa41996e3aff4b3f6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Run/RootMotion/R1R.fbx using Guid(a6234aa106c48fa41996e3aff4b3f6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cdf53aba4c0f9d70664be19e64ebf305') in 0.0106511 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.513878 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Forward.fbx
-  artifactKey: Guid(357a014fc50a6ae4aa9ea8347010fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_Forward.fbx using Guid(357a014fc50a6ae4aa9ea8347010fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '015a01db26c200a256c6ab105a7e2658') in 0.0091149 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_ForwardRight.fbx
-  artifactKey: Guid(12699ef2e572e3944a02284d64418e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/HumanM@Sprint01_ForwardRight.fbx using Guid(12699ef2e572e3944a02284d64418e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '039d0c8a764efc3bc2c5ebb929fde3c4') in 0.010516 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.308918 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/S1F.fbx
-  artifactKey: Guid(357a014fc50a6ae4aa9ea8347010fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/S1F.fbx using Guid(357a014fc50a6ae4aa9ea8347010fb60) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '90f3b9f45e6ba9dfac976dd5712a9e60') in 0.0079123 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.693666 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/Sprint1FL.fbx
-  artifactKey: Guid(f6072704b2acecd4d8a9b6559a996b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/Sprint1FL.fbx using Guid(f6072704b2acecd4d8a9b6559a996b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '02b008089c506f8ae32586a7e049ff78') in 0.0121385 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.956997 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/Sprint1FR.fbx
-  artifactKey: Guid(12699ef2e572e3944a02284d64418e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/Sprint1FR.fbx using Guid(12699ef2e572e3944a02284d64418e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '17a7cba2d89105566cdd415c803cfa54') in 0.0100354 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.178340 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion
-  artifactKey: Guid(89c28c6713f4e2447b5fdc6740e8232a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion using Guid(89c28c6713f4e2447b5fdc6740e8232a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49daf59b108f2c2cd09c835b49cb9dce') in 0.0013731 seconds
+  Time since last request: 179696.903799 seconds.
+  path: Assets/Material/Materials
+  artifactKey: Guid(fc491fc5eea1ae7409028fd4281a3712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials using Guid(fc491fc5eea1ae7409028fd4281a3712) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '972d9912e8cffa5d02e59ce2a5e4f160') in 0.0095517 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.348307 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Forward [RM].fbx
-  artifactKey: Guid(60ce564cb0bcd8c4bba6cecbf7c3703f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_Forward [RM].fbx using Guid(60ce564cb0bcd8c4bba6cecbf7c3703f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '369b2265043080fd9a56918f6eafbb49') in 0.0090935 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+  Time since last request: 0.034160 seconds.
+  path: Assets/Material/Materials/Grass.mat
+  artifactKey: Guid(8e14c8ef474dd3c4482c040a14dd6687) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/Grass.mat using Guid(8e14c8ef474dd3c4482c040a14dd6687) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter)CommandBuffer: temporary render texture  not found while executing  (Copy source)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit ()
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.UniversalCameraData) (at ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs:887)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera,UnityEngine.Rendering.Universal.UniversalAdditionalCameraData&) (at ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs:690)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs:665)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>) (at ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs:482)
+UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,UnityEngine.Object,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+UnityEngine.Camera:Render ()
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.MaterialEditor:DoRenderPreview (UnityEditor.PreviewRenderUtility,bool)
+UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs line 887]
+
+CommandBuffer: temporary render texture  not found while executing  (Copy destination)
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.Rendering.ScriptableRenderContext:Submit ()
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCamera (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Rendering.Universal.UniversalCameraData) (at ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs:887)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera,UnityEngine.Rendering.Universal.UniversalAdditionalCameraData&) (at ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs:690)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:RenderSingleCameraInternal (UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera) (at ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs:665)
+UnityEngine.Rendering.Universal.UniversalRenderPipeline:Render (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>) (at ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs:482)
+UnityEngine.Rendering.RenderPipeline:InternalRender (UnityEngine.Rendering.ScriptableRenderContext,System.Collections.Generic.List`1<UnityEngine.Camera>)
+UnityEngine.Rendering.RenderPipelineManager:DoRenderLoop_Internal (UnityEngine.Rendering.RenderPipelineAsset,intptr,UnityEngine.Object,Unity.Collections.LowLevel.Unsafe.AtomicSafetyHandle)
+UnityEngine.Camera:Render ()
+UnityEditor.PreviewRenderUtility:Render (bool,bool)
+UnityEditor.MaterialEditor:DoRenderPreview (UnityEditor.PreviewRenderUtility,bool)
+UnityEditor.MaterialEditor:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/UniversalRenderPipeline.cs line 887]
+
+ -> (artifact id: 'ba96df2729270633646cef878a37e45c') in 0.9096661 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_ForwardRight [RM].fbx
-  artifactKey: Guid(a7d450fa4f07a3f4e9fcb7894d556674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/HumanM@Sprint01_ForwardRight [RM].fbx using Guid(a7d450fa4f07a3f4e9fcb7894d556674) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '29d2173225315a474ff6faaffe03548d') in 0.0110099 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+  Time since last request: 0.000197 seconds.
+  path: Assets/Material/Materials/Verde.mat
+  artifactKey: Guid(5dc4de35bf127ef4385f0ea24e5f5c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/Verde.mat using Guid(5dc4de35bf127ef4385f0ea24e5f5c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c11e0603efa1ffe2acbfbc7cf6d7f81b') in 0.024913 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 13.529412 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/Sprint1F.fbx
-  artifactKey: Guid(60ce564cb0bcd8c4bba6cecbf7c3703f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/Sprint1F.fbx using Guid(60ce564cb0bcd8c4bba6cecbf7c3703f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6fc3f08383989d7aa1bd8c70abbfe37e') in 0.0102682 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+  Time since last request: 0.000106 seconds.
+  path: Assets/Material/Materials/New Material 3.mat
+  artifactKey: Guid(6ad6f6172b4a37543a3d917e5c8e067f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/New Material 3.mat using Guid(6ad6f6172b4a37543a3d917e5c8e067f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '175c91e77bff7ebcec10eb5ab698ccc4') in 0.0233038 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.052528 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/Sprint1Fl.fbx
-  artifactKey: Guid(5cb42faa270a0e44a869bf1204fdf95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/Sprint1Fl.fbx using Guid(5cb42faa270a0e44a869bf1204fdf95b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba6974552acc8c2419d03b7a2b7568d7') in 0.0111736 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+  Time since last request: 0.000035 seconds.
+  path: Assets/Material/Materials/images (1) 2.mat
+  artifactKey: Guid(e6ec3b14147e998408513b7a832db801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/images (1) 2.mat using Guid(e6ec3b14147e998408513b7a832db801) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8513dc8cc2c6b3d30822554ec0929c9') in 0.0221835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.214961 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/Sprint1FR.fbx
-  artifactKey: Guid(a7d450fa4f07a3f4e9fcb7894d556674) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Sprint/RootMotion/Sprint1FR.fbx using Guid(a7d450fa4f07a3f4e9fcb7894d556674) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4db6a67708e48fd7b9d10b5e94de990b') in 0.0057004 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+  Time since last request: 0.000071 seconds.
+  path: Assets/Material/Materials/New Material 4.mat
+  artifactKey: Guid(0af7f8e8194697540b01aad59a0a73f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/New Material 4.mat using Guid(0af7f8e8194697540b01aad59a0a73f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'eb64ab23d579618626dfb0d52d0c2e1a') in 0.0214841 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.353998 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left.fbx
-  artifactKey: Guid(18af8201e2c67af4385b4f57a80645de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Left.fbx using Guid(18af8201e2c67af4385b4f57a80645de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a915d37920c582de1daad01bb0710a0f') in 0.0098774 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+  Time since last request: 0.000072 seconds.
+  path: Assets/Material/Materials/verde 1.mat
+  artifactKey: Guid(22e79a3ed420f8447a036c7d1241df64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/verde 1.mat using Guid(22e79a3ed420f8447a036c7d1241df64) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '716b8c5bf96fae40796b8da3ac22ee4f') in 0.0307955 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Right [RM].fbx
-  artifactKey: Guid(04a8218d40d89874a8ba9bfc00ec8037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/HumanM@Turn01_Right [RM].fbx using Guid(04a8218d40d89874a8ba9bfc00ec8037) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f96f99eeac815ad0a70c95b9c935054d') in 0.0108662 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+  Time since last request: 0.000118 seconds.
+  path: Assets/Material/Materials/New Material 5.mat
+  artifactKey: Guid(b57298fa3e25bb74f943ed371e08926d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/New Material 5.mat using Guid(b57298fa3e25bb74f943ed371e08926d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6dee4e346d6a04a265f3fdfa63b4460c') in 0.0272361 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.055344 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/Turn.fbx
-  artifactKey: Guid(18af8201e2c67af4385b4f57a80645de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/Turn.fbx using Guid(18af8201e2c67af4385b4f57a80645de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4d0937b7bbf23524e521b0581f54939d') in 0.0093943 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
+  Time since last request: 0.000082 seconds.
+  path: Assets/Material/Materials/New Material 6.mat
+  artifactKey: Guid(30f3b5f240a02414d884980c3e53f7ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/New Material 6.mat using Guid(30f3b5f240a02414d884980c3e53f7ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '661d1dfc029b1212408c962ca294f1fa') in 0.0272158 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Material/Materials/Verde Escuro.mat
+  artifactKey: Guid(814a8ef2c59060b4684f39f3ba7285c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/Verde Escuro.mat using Guid(814a8ef2c59060b4684f39f3ba7285c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7202fe1ab3cc8005f734b6b993ed7434') in 0.0258327 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/Material/Materials/Marrom.mat
+  artifactKey: Guid(0aaebee897c5ccf41850ef7d493f0b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/Marrom.mat using Guid(0aaebee897c5ccf41850ef7d493f0b8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7c7eae25fd7247e8daeba946cc8c1cee') in 0.0285018 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Material/Materials/images (1) 3.mat
+  artifactKey: Guid(4599896ee6ce80b42ab0ce32ca44eb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/images (1) 3.mat using Guid(4599896ee6ce80b42ab0ce32ca44eb82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e1f16af1fe6ee797fe1f296b3c35f6c5') in 0.0252875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Material/Materials/New Material.mat
+  artifactKey: Guid(430493f61af3a434db255aa7edb61c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/New Material.mat using Guid(430493f61af3a434db255aa7edb61c94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8f12b3a88e68c6d33e04cdf7330c943a') in 0.0259117 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Material/Materials/Laranja.mat
+  artifactKey: Guid(e857fbc04d88b514e9ff95a34849e122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/Laranja.mat using Guid(e857fbc04d88b514e9ff95a34849e122) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '05c08fe9abbfade1cfbb42e8465cf37e') in 0.0199169 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Material/Materials/red.mat
+  artifactKey: Guid(047b1e802f35093429aca493a9634b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Materials/red.mat using Guid(047b1e802f35093429aca493a9634b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ad36af174d22f20d45652e2ed92b6ac') in 0.0242839 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
 ========================================================================
 Received Prepare
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.982 seconds
-Refreshing native plugins compatible for Editor in 35.48 ms, found 3 plugins.
+- Loaded All Assemblies, in  1.838 seconds
+Refreshing native plugins compatible for Editor in 4.95 ms, found 3 plugins.
+Native extension for LinuxStandalone target not found
+Native extension for iOS target not found
 Native extension for Android target not found
+Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
+Failed to load: C:/Program Files/Unity 6000.0.38f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for WebGL target not found
 The project currently uses the compatibility mode where the Render Graph API is disabled. Support for this mode will be removed in future Unity versions. Migrate existing ScriptableRenderPasses to the new RenderGraph API. After the migration, disable the compatibility mode in Edit > Projects Settings > Graphics > Render Graph.
 UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
 UnityEngine.StackTraceUtility:ExtractStackTrace ()
@@ -398,308 +410,48 @@ UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 (Filename: ./Library/PackageCache/com.unity.render-pipelines.universal@1e752e39e60c/Runtime/Data/UniversalRenderPipelineAsset.cs Line: 427)
 
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  1.707 seconds
-Domain Reload Profiling: 4689ms
-	BeginReloadAssembly (536ms)
+- Finished resetting the current domain, in  1.924 seconds
+Domain Reload Profiling: 3761ms
+	BeginReloadAssembly (331ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (29ms)
+		DisableScriptedObjects (22ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (1ms)
-		CreateAndSetChildDomain (135ms)
-	RebuildCommonClasses (98ms)
-	RebuildNativeTypeToScriptingClass (34ms)
-	initialDomainReloadingComplete (114ms)
-	LoadAllAssembliesAndSetupDomain (2198ms)
-		LoadAssemblies (1427ms)
+		CreateAndSetChildDomain (85ms)
+	RebuildCommonClasses (54ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (1375ms)
+		LoadAssemblies (809ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (1020ms)
-			TypeCache.Refresh (73ms)
+		AnalyzeDomain (705ms)
+			TypeCache.Refresh (16ms)
 				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (619ms)
-			ResolveRequiredComponents (287ms)
-	FinalizeReload (1708ms)
+			BuildScriptInfoCaches (648ms)
+			ResolveRequiredComponents (31ms)
+	FinalizeReload (1925ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1186ms)
+		SetupLoadedEditorAssemblies (1376ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (31ms)
-			SetLoadedEditorAssemblies (8ms)
-			BeforeProcessingInitializeOnLoad (249ms)
-			ProcessInitializeOnLoadAttributes (741ms)
-			ProcessInitializeOnLoadMethodAttributes (137ms)
-			AfterProcessingInitializeOnLoad (20ms)
+			InitializePlatformSupportModulesInManaged (90ms)
+			SetLoadedEditorAssemblies (10ms)
+			BeforeProcessingInitializeOnLoad (274ms)
+			ProcessInitializeOnLoadAttributes (839ms)
+			ProcessInitializeOnLoadMethodAttributes (145ms)
+			AfterProcessingInitializeOnLoad (18ms)
 			EditorAssembliesLoaded (1ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (31ms)
-Refreshing native plugins compatible for Editor in 4.58 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (36ms)
+Refreshing native plugins compatible for Editor in 2.90 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 23 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 6009 unused Assets / (4.6 MB). Loaded Objects now: 6736.
-Memory consumption went from 141.1 MB to 136.5 MB.
-Total: 24.582600 ms (FindLiveObjects: 1.744200 ms CreateObjectMapping: 2.678000 ms MarkObjects: 11.266300 ms  DeleteObjects: 8.890300 ms)
+Unloading 6010 unused Assets / (4.5 MB). Loaded Objects now: 6813.
+Memory consumption went from 163.0 MB to 158.5 MB.
+Total: 23.292100 ms (FindLiveObjects: 2.936800 ms CreateObjectMapping: 2.521000 ms MarkObjects: 12.501000 ms  DeleteObjects: 5.330300 ms)
 
 Prepare: number of updated asset objects reloaded= 0
-========================================================================
-Received Import Request.
-  Time since last request: 62.167604 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/T1R.fbx
-  artifactKey: Guid(04a8218d40d89874a8ba9bfc00ec8037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/T1R.fbx using Guid(04a8218d40d89874a8ba9bfc00ec8037) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92d8d34470bea2a4dd0cf3b038d72828') in 0.1104827 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 34.458174 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/T1L.fbx
-  artifactKey: Guid(19d4cab1f1a36f44db3b80478afd3cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/T1L.fbx using Guid(19d4cab1f1a36f44db3b80478afd3cb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '132b92a6d786c19ac2bb6efe91e57dd9') in 0.0104275 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.304273 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/Turn1Right2.fbx
-  artifactKey: Guid(3474edfe57da8b04799548d1b9997e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Turn/Turn1Right2.fbx using Guid(3474edfe57da8b04799548d1b9997e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b2289f30f3fcf24e9aedf90de51a7b5') in 0.0118793 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.599482 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Backward.fbx
-  artifactKey: Guid(cb46d61a31f3bb34395ab55c7580ebee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Backward.fbx using Guid(cb46d61a31f3bb34395ab55c7580ebee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '491e80d17f21c958995056cdb26abe24') in 0.0221046 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_ForwardLeft.fbx
-  artifactKey: Guid(b06ebacf4f8320c4cb1c07046898d862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_ForwardLeft.fbx using Guid(b06ebacf4f8320c4cb1c07046898d862) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1d766441e2b4ddab5c2dcaf8e85f910') in 0.0242586 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Forward.fbx
-  artifactKey: Guid(012fd8b7e910f804caadf295d5d45e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Forward.fbx using Guid(012fd8b7e910f804caadf295d5d45e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f68fbdb300116f3164daee2a50e2b2b') in 0.0129168 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Left.fbx
-  artifactKey: Guid(ff44bb82f0146a74fb98ea1824cae44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Left.fbx using Guid(ff44bb82f0146a74fb98ea1824cae44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '550fa6b112c50501c2fa57f142e45644') in 0.0158821 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Right.fbx
-  artifactKey: Guid(6ae6fc1ae59ede345b4fb194814f318f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/HumanM@Walk01_Right.fbx using Guid(6ae6fc1ae59ede345b4fb194814f318f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '204bd74e25bcae165ebd205401c227b9') in 0.0114565 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.965101 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/Walk1B.fbx
-  artifactKey: Guid(cb46d61a31f3bb34395ab55c7580ebee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/Walk1B.fbx using Guid(cb46d61a31f3bb34395ab55c7580ebee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aa59496fb4fbdea44f52d37a148b8062') in 0.0094191 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.787691 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1BL.fbx
-  artifactKey: Guid(a93c9bed55def714b8836fe9a9e09a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1BL.fbx using Guid(a93c9bed55def714b8836fe9a9e09a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '965e4270720aa3d5d4bde32b64f1db59') in 0.0073832 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.748720 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1BR.fbx
-  artifactKey: Guid(b77841f73a04243498d7c233cd4f21d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1BR.fbx using Guid(b77841f73a04243498d7c233cd4f21d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '71ef20a56ef269988376cd71ec3b5881') in 0.0143706 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 14.048169 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1F.fbx
-  artifactKey: Guid(012fd8b7e910f804caadf295d5d45e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1F.fbx using Guid(012fd8b7e910f804caadf295d5d45e2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cc4044cdf01901ffd062bbc3c49874d7') in 0.0070346 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.223902 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1FL.fbx
-  artifactKey: Guid(b06ebacf4f8320c4cb1c07046898d862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1FL.fbx using Guid(b06ebacf4f8320c4cb1c07046898d862) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '43d50e7a441c3ab2161645370b7ad272') in 0.0069125 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.260258 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1FR.fbx
-  artifactKey: Guid(6c1c5513c95aed44e9db044c2d6406a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1FR.fbx using Guid(6c1c5513c95aed44e9db044c2d6406a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64a491a2f5d7f148baf460b21bdec108') in 0.0123506 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.223838 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1L.fbx
-  artifactKey: Guid(ff44bb82f0146a74fb98ea1824cae44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1L.fbx using Guid(ff44bb82f0146a74fb98ea1824cae44a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a88a503dcb527ae8f1b026aabff69ece') in 0.0119084 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.468679 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1R.fbx
-  artifactKey: Guid(6ae6fc1ae59ede345b4fb194814f318f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/W1R.fbx using Guid(6ae6fc1ae59ede345b4fb194814f318f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1290f7f7f4785c69f73c1f216b470af9') in 0.0105904 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.412276 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion
-  artifactKey: Guid(11d274b4b5c082449a03eb98bce92189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion using Guid(11d274b4b5c082449a03eb98bce92189) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '781bd5416cc87de43c2521c92dac56bf') in 0.0009954 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.660094 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Backward [RM].fbx
-  artifactKey: Guid(279dea3e5c907f84b8fd79b464404a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Backward [RM].fbx using Guid(279dea3e5c907f84b8fd79b464404a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c09e1c7fd9938e88bb68ad0d44a404d2') in 0.0273638 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000047 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardRight [RM].fbx
-  artifactKey: Guid(0ab6a2e6f889b2f488bf18638a9635e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardRight [RM].fbx using Guid(0ab6a2e6f889b2f488bf18638a9635e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '44d7debc1e50092e0fef8b2ada6db30b') in 0.0155662 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000087 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Left [RM].fbx
-  artifactKey: Guid(b3c5165fa2a9dcf4cb7031c16952b306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Left [RM].fbx using Guid(b3c5165fa2a9dcf4cb7031c16952b306) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd1a3af9c37aaaf723ac30632b5e0bf29') in 0.0127244 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Right [RM].fbx
-  artifactKey: Guid(64ee24dd49e72b049812dace66fc223f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_Right [RM].fbx using Guid(64ee24dd49e72b049812dace66fc223f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '273ed8dcd16373036ecf751026f35601') in 0.0104573 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardLeft [RM].fbx
-  artifactKey: Guid(7347e916c0047db4c83cae759dbc0bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/HumanM@Walk01_ForwardLeft [RM].fbx using Guid(7347e916c0047db4c83cae759dbc0bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ebc09d74745003bbab7f2222b30f9e0') in 0.0151161 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.787583 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1B.fbx
-  artifactKey: Guid(279dea3e5c907f84b8fd79b464404a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1B.fbx using Guid(279dea3e5c907f84b8fd79b464404a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aec259764ee047793e4a8ebe904a35cf') in 0.0463879 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.282825 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1BL.fbx
-  artifactKey: Guid(04dbe06c53dc3b246bc83f0803e3b71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1BL.fbx using Guid(04dbe06c53dc3b246bc83f0803e3b71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd1954e9935a8a54d4321f4a33a93359c') in 0.0123435 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.691029 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1BR.fbx
-  artifactKey: Guid(bebe632f34314de4ab6b8ed6cf0ad983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1BR.fbx using Guid(bebe632f34314de4ab6b8ed6cf0ad983) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc426cf383c935ce7a2c8ab34a63c74d') in 0.0136195 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.847101 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1F.fbx
-  artifactKey: Guid(45f47d2e897173a469caef4a1da768dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1F.fbx using Guid(45f47d2e897173a469caef4a1da768dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4a24376bb17e97866f98619adc3aefb6') in 0.0123334 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.446267 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1FL.fbx
-  artifactKey: Guid(7347e916c0047db4c83cae759dbc0bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1FL.fbx using Guid(7347e916c0047db4c83cae759dbc0bad) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0bdee3d31a1cb7b19751994cb8dcac69') in 0.0124017 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.448710 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1FR.fbx
-  artifactKey: Guid(0ab6a2e6f889b2f488bf18638a9635e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1FR.fbx using Guid(0ab6a2e6f889b2f488bf18638a9635e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9b8e06a6908393da8d5462c872bdd428') in 0.0152674 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.384264 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1L.fbx
-  artifactKey: Guid(b3c5165fa2a9dcf4cb7031c16952b306) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1L.fbx using Guid(b3c5165fa2a9dcf4cb7031c16952b306) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ba006f7bf75652c6e27677614bf3c234') in 0.0095262 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.819831 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1R.fbx
-  artifactKey: Guid(64ee24dd49e72b049812dace66fc223f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Movement/Walk/RootMotion/W1R.fbx using Guid(64ee24dd49e72b049812dace66fc223f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4f347fa704c03ed26f67a20788e079ed') in 0.0130529 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 2.067293 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation
-  artifactKey: Guid(f9507c68eeb7d1d4c9cf86799a26832e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation using Guid(f9507c68eeb7d1d4c9cf86799a26832e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '182ce391386b060bacce7199048010fa') in 0.0025957 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.947860 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation/HumanM@Talk01.fbx
-  artifactKey: Guid(5277e5180e302184fb73653674a14c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation/HumanM@Talk01.fbx using Guid(5277e5180e302184fb73653674a14c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '869e0f809b0871128dddc935bc2504de') in 0.0221038 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.587651 seconds.
-  path: Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation/Talk.fbx
-  artifactKey: Guid(5277e5180e302184fb73653674a14c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kevin Iglesias/Human Animations/Animations/Male/Social/Conversation/Talk.fbx using Guid(5277e5180e302184fb73653674a14c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e77f4a86cefd3d0673f70fbc1165f88') in 0.0264256 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 117
-
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
