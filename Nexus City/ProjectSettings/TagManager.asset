@@ -12,6 +12,7 @@ TagManager:
   - PowerUp
   - Dano5
   - Dano10
+  - Plataforma
   layers:
   - Default
   - TransparentFX

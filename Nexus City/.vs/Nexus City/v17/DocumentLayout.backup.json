@@ -1,12 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jurio\\OneDrive\\Documentos\\GitHub\\Projeto8\\Nexus City\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\aaa\\Projeto8\\Nexus City\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\drones\\drone3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\drones\\drone3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\drones\\dronemovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\drones\\dronemovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\drones\\dronemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\drones\\dronemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\inimigos\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\inimigos\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\painelsolar\\painelsolarpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\painelsolar\\painelsolarpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drone3.cs",
+              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Drones\\Drone3.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Drones\\Drone3.cs",
+              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Drones\\Drone3.cs",
+              "RelativeToolTip": "Assets\\script\\Drones\\Drone3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:55:31.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DroneMovement2.cs",
+              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement2.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Drones\\DroneMovement2.cs",
+              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement2.cs",
+              "RelativeToolTip": "Assets\\script\\Drones\\DroneMovement2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:46:07.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DroneMovement.cs",
+              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Drones\\DroneMovement.cs",
+              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement.cs",
+              "RelativeToolTip": "Assets\\script\\Drones\\DroneMovement.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:43:41.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\Bullet.cs",
+              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bullet.cs",
+              "RelativeToolTip": "Assets\\script\\Inimigos\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:28:45.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Turret.cs",
+              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Turret.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\Turret.cs",
+              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Turret.cs",
+              "RelativeToolTip": "Assets\\script\\Inimigos\\Turret.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T11:19:45.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PainelSolarPuzzle.cs",
+              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
+              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
+              "RelativeToolTip": "Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T01:27:29.709Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
