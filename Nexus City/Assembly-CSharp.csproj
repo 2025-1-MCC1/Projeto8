@@ -90,6 +90,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+    <Compile Include="Assets\script\Inimigos\Bala.cs" />
     <Compile Include="Assets\script\Drones\Drone3.cs" />
     <Compile Include="Assets\script\Inimigos\EnemyHead.cs" />
     <Compile Include="Assets\script\Inimigos\Turret.cs" />
@@ -123,10 +124,13 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
     <Compile Include="Assets\script\Inimigos\Bullet.cs" />
+    <Compile Include="Assets\script\Inimigos\inimigo.cs" />
+    <Compile Include="Assets\script\textoFinal.cs" />
     <Compile Include="Assets\script\PasswordChallenge.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\script\SEMAFORO.cs" />
-    <Compile Include="Assets\script\Sensor.cs" />
+    <Compile Include="Assets\script\LoadScene\GameOverManagerf.cs" />
+    <Compile Include="Assets\script\Inimigos\NewMonoBehaviourScript.cs" />
     <Compile Include="Assets\script\Player\Movimento.cs" />
     <Compile Include="Assets\script\CodeChecker.cs" />
     <Compile Include="Assets\script\Lixos\PlayerInventario.cs" />

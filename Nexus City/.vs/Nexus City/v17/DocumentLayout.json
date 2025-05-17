@@ -1,37 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\",
+  "WorkspaceRootPath": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\pichau\\onedrive\\documents\\github\\projeto8\\nexus city\\assets\\scripts 2\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts 2\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\users\\duard\\documents\\github\\projeto2.0\\projeto8\\nexus city\\assets\\script\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\player\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\users\\duard\\documents\\github\\projeto2.0\\projeto8\\nexus city\\assets\\script\\coletaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\coletaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\gameovermanagerf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameovermanagerf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\users\\duard\\documents\\github\\projeto2.0\\projeto8\\nexus city\\assets\\script\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\player\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Runtime\\Data\\UniversalRenderPipelineAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Runtime\\Data\\UniversalRenderPipelineAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\inimigos\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\duard\\documents\\github\\projeto2.0\\projeto8\\nexus city\\assets\\script\\rscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\rscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\scripts 2\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts 2\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\player\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\inimigos\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\inimigos\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\drones\\drone3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\drones\\drone3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\drones\\drone3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\drones\\dronemovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\drones\\dronemovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\drones\\dronemovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\drones\\dronemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\drones\\dronemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\drones\\dronemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\inimigos\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\inimigos\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\assets\\script\\painelsolar\\painelsolarpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\assets\\script\\painelsolar\\painelsolarpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\painelsolar\\painelsolarpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,23 +79,123 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\Scripts 2\\MainMenu.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts 2\\MainMenu.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\Scripts 2\\MainMenu.cs",
-              "RelativeToolTip": "Assets\\Scripts 2\\MainMenu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Title": "NewMonoBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\NewMonoBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\NewMonoBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\NewMonoBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\script\\NewMonoBehaviourScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-16T19:37:14.032Z",
+              "WhenOpened": "2025-05-17T04:59:52.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ColetarItem.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\ColetarItem.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\ColetarItem.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\ColetarItem.cs",
+              "RelativeToolTip": "Assets\\script\\ColetarItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:55:35.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameOverManagerf.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\GameOverManagerf.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\GameOverManagerf.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\GameOverManagerf.cs",
+              "RelativeToolTip": "Assets\\script\\GameOverManagerf.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:28:22.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bala.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Bala.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Bala.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Bala.cs",
+              "RelativeToolTip": "Assets\\script\\Bala.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:14:16.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Player\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Player\\Health.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Player\\Health.cs",
+              "RelativeToolTip": "Assets\\script\\Player\\Health.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:12:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\Enemy.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Enemy.cs",
+              "RelativeToolTip": "Assets\\script\\Inimigos\\Enemy.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:06:10.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rScript.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\rScript.cs",
+              "RelativeDocumentMoniker": "Assets\\script\\rScript.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\rScript.cs",
+              "RelativeToolTip": "Assets\\script\\rScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:01:29.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniversalRenderPipelineAsset.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Runtime\\Data\\UniversalRenderPipelineAsset.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Runtime\\Data\\UniversalRenderPipelineAsset.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Runtime\\Data\\UniversalRenderPipelineAsset.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@1e752e39e60c\\Runtime\\Data\\UniversalRenderPipelineAsset.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAAwKoBAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:18:11.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\Scripts 2\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts 2\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\Scripts 2\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts 2\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T19:37:14.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Platform.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Player\\Platform.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Player\\Platform.cs",
               "RelativeDocumentMoniker": "Assets\\script\\Player\\Platform.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Player\\Platform.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Player\\Platform.cs",
               "RelativeToolTip": "Assets\\script\\Player\\Platform.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +203,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Drone3.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Drones\\Drone3.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Drones\\Drone3.cs",
               "RelativeDocumentMoniker": "Assets\\script\\Drones\\Drone3.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Drones\\Drone3.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Drones\\Drone3.cs",
               "RelativeToolTip": "Assets\\script\\Drones\\Drone3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -83,11 +215,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "DroneMovement2.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement2.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement2.cs",
               "RelativeDocumentMoniker": "Assets\\script\\Drones\\DroneMovement2.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement2.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement2.cs",
               "RelativeToolTip": "Assets\\script\\Drones\\DroneMovement2.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +227,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "DroneMovement.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement.cs",
               "RelativeDocumentMoniker": "Assets\\script\\Drones\\DroneMovement.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Drones\\DroneMovement.cs",
               "RelativeToolTip": "Assets\\script\\Drones\\DroneMovement.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA1wBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +239,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\Bullet.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bullet.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bullet.cs",
               "RelativeToolTip": "Assets\\script\\Inimigos\\Bullet.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +251,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Turret.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Turret.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Turret.cs",
               "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\Turret.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Turret.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Turret.cs",
               "RelativeToolTip": "Assets\\script\\Inimigos\\Turret.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +263,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "PainelSolarPuzzle.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
               "RelativeDocumentMoniker": "Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
-              "ToolTip": "C:\\Users\\Pichau\\OneDrive\\Documents\\GitHub\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
+              "ToolTip": "C:\\Users\\duard\\Documents\\GitHub\\Projeto2.0\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
               "RelativeToolTip": "Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

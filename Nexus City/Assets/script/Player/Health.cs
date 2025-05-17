@@ -1,49 +1,37 @@
-using TMPro;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
-public class Health : MonoBehaviour
+public class PlayerHealth : MonoBehaviour
 {
-
-    public int vidaAtual;
     public int vidaMaxima = 100;
-    
-    public HealthBar healthBar;
+    private int vidaAtual;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public Slider sliderVida;
+
     void Start()
     {
         vidaAtual = vidaMaxima;
-        healthBar.SetVidaMaxima(vidaMaxima);
+        sliderVida.maxValue = vidaMaxima;
+        sliderVida.value = vidaAtual;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void LevarDano(int dano)
     {
-
-    }
-
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.tag == "Dano10")
-        {
-            TomarDano(10);
-        }
-
-        if (collision.gameObject.tag == "Dano5")
-        {
-             TomarDano(5);
-        }
-    }
-    void TomarDano(int dano)
-    {
-       
         vidaAtual -= dano;
-        Debug.Log ("Dano");
-        healthBar.SetVidaAtual(vidaAtual);
+        if (vidaAtual < 0) vidaAtual = 0;
+
+        sliderVida.value = vidaAtual;
+
+        if (vidaAtual <= 0)
+        {
+            Morrer();
+        }
     }
 
+    void Morrer()
+    {
+        Debug.Log("Morreu!");
+        Time.timeScale = 0f;
+        GameOverManager.instance.MostrarGameOver();
+    }
 }
-
-
-
