@@ -122,3 +122,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidade: 7
+  impacto: {fileID: 8300000, guid: 0d6a5ce556cecd74ca1b78fb5590e529, type: 3}

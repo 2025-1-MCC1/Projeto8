@@ -8,6 +8,9 @@ public class NewMonoBehaviourScript : MonoBehaviour
 
     private float proximoDisparo;
 
+    [SerializeField] private AudioClip tiro; //audio de tiro
+
+
     void Update()
     {
         if (Time.time >= proximoDisparo)
@@ -20,5 +23,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Disparar()
     {
         Instantiate(projetilPrefab, pontoDeDisparo.position, pontoDeDisparo.rotation);
+        AudioSource.PlayClipAtPoint(tiro, transform.position, 1f); // toca som de tiro
     }
 }

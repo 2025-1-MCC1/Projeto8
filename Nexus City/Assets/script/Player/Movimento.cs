@@ -3,6 +3,9 @@ using UnityEngine;
 
 public class Movimento : MonoBehaviour
 {
+
+    private float lastStepTime = 0;
+    public float delayBetweenSteps = 0.5f;
     public  CharacterController character;
     private Animator animator;
     private Vector2 input;
@@ -14,7 +17,9 @@ public class Movimento : MonoBehaviour
     public bool estaNoChao;
     [SerializeField] private LayerMask colisaoLayer;
     [SerializeField] public Transform peDoPersonagem;
-
+    [SerializeField] private AudioClip passos;
+  
+    private AudioSource audioSource;
     private float gravidade = -20f;
     private float forcaPulo = 10f;
 
@@ -30,6 +35,8 @@ public class Movimento : MonoBehaviour
         input.Set(Input.GetAxisRaw("Horizontal"), 0);
 
         Vector3 move = new Vector3(input.x * velocidade, 0, 0);
+
+
 
         // Verifica se está no chão
         estaNoChao = Physics.CheckSphere(peDoPersonagem.position, 0.2f, colisaoLayer);
@@ -70,13 +77,23 @@ public class Movimento : MonoBehaviour
         if (Mathf.Abs(input.x) > 0.1f)
         {
             animator.SetBool("correndo", true);
+            
+
         }
         else
         {
             animator.SetBool("correndo", false);
         }
 
-        
+   
+
+        if ((Mathf.Abs(input.x) > 0.1f) && (estaNoChao) && (Time.time - lastStepTime >= delayBetweenSteps)) //se estiver andando, estiver no chão e se faz algum tempo desde que o som de passos tocou
+        {
+            AudioSource.PlayClipAtPoint(passos, transform.position, 1f); // toca som de passos
+            lastStepTime = Time.time; // atualiza tempo em que som passos tocou
+        }
+
+    
     }
     
     

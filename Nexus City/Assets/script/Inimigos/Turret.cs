@@ -2,21 +2,25 @@ using UnityEngine;
 
 public class Turret : MonoBehaviour
 {
-
+    [SerializeField] private AudioClip waterBullet; //audio da bala de agua
     public GameObject bullet;
-    
+    private float lastBulletTime = 0;
+    public float delayBetweenBullets = 1f;
 
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+  
     void Start()
     {
         InvokeRepeating("Shoot", 1f, 1f); // invoca os tiros repetidamente
-    }
 
-    // Update is called once per frame
+    }
     void Update()
     {
-        
+        if (Time.time - lastBulletTime >= delayBetweenBullets)
+        {
+            AudioSource.PlayClipAtPoint(waterBullet, transform.position, 1f); // toca som da bala de agua
+            lastBulletTime = Time.time; // atualiza tempo em que som da bala tocou
+        }
     }
     void Shoot()
     {

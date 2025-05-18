@@ -8,6 +8,8 @@ public class PowerUpDrone : MonoBehaviour
     [SerializeField] private Slider barraReputacao; // Arraste sua barra aqui
     [SerializeField] private float tempoExibicao = 3f;
     [SerializeField] private float aumentoReputacao = 10f; // Quanto vai aumentar
+    [SerializeField] private AudioClip reputacao; //audio de reputacao
+
 
     private void OnTriggerEnter(Collider other)
     {
@@ -20,6 +22,7 @@ public class PowerUpDrone : MonoBehaviour
 
             Invoke(nameof(OcultarMensagem), tempoExibicao);
             gameObject.SetActive(false);
+            AudioSource.PlayClipAtPoint(reputacao, transform.position, 1f); // toca som de reputacao
         }
     }
 

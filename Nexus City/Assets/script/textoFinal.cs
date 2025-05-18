@@ -7,6 +7,10 @@ public class PausaTemporaria : MonoBehaviour
     public string tagDoJogador = "Player";
     public GameObject painelTexto; // Um painel de UI com o texto
 
+    [SerializeField] private AudioClip abrir; //audio de abrir
+    [SerializeField] private AudioClip fechar; //audio de fechar
+
+
     private bool jaAtivou = false;
 
     void OnTriggerEnter(Collider outro)
@@ -20,6 +24,9 @@ public class PausaTemporaria : MonoBehaviour
 
     IEnumerator PausarComTexto()
     {
+
+        AudioSource.PlayClipAtPoint(abrir, transform.position, 1f); // toca o de som Abrir
+
         // Mostrar texto
         painelTexto.SetActive(true);
 
@@ -34,5 +41,7 @@ public class PausaTemporaria : MonoBehaviour
 
         // Voltar o tempo do jogo
         Time.timeScale = 1f;
+
+        AudioSource.PlayClipAtPoint(fechar, transform.position, 1f); // toca o de som fechar
     }
 }

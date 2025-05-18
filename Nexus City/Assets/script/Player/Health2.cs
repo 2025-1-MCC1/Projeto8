@@ -4,7 +4,7 @@ using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour
 {
-
+    [SerializeField] private AudioClip maisVida; //audio de + vida
     public int vidaAtual; // qual é a vida minima
     public int vidaMaxima = 100; //qual é a vida maxima
     public GameObject hotDog; //hot dog
@@ -45,6 +45,7 @@ public class Health : MonoBehaviour
         {
             RecuperarVida(30); //chama recuperar vida e coloca 30 na int recuperar
             hotDog.SetActive(false);
+            
         }
     }
     void TomarDano(int dano) // quando dano é tomado
@@ -69,7 +70,7 @@ public class Health : MonoBehaviour
         vidaAtual += recuperar; // adiciona vida
         Debug.Log("+Vida"); 
         healthBar.SetVidaAtual(vidaAtual); //atualiza barra de vida
-
+        AudioSource.PlayClipAtPoint(maisVida, transform.position, 1f); // toca som de + vida
 
 
     }

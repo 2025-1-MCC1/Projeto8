@@ -5,10 +5,11 @@ public class Bullet : MonoBehaviour
     public GameObject IgnoreEnemy;
     float speed = 10;
 
+    [SerializeField] private AudioClip waterSplash; //audio da bala da agua colidindo om algo
 
     void Start()
     {
-        Destroy(gameObject, 4f); //destroi a bala após 4 segundos
+        Destroy(gameObject, 1f); //destroi a bala após 4 segundos
     }
 
 
@@ -21,5 +22,6 @@ public class Bullet : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         Destroy(gameObject);  //deleta a bala quando ela atinge algo
+        AudioSource.PlayClipAtPoint(waterSplash, transform.position, 0.5f); // toca som da bala batendo em algo
     }
 }

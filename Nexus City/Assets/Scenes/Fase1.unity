@@ -920,6 +920,7 @@ GameObject:
   - component: {fileID: 330585544}
   - component: {fileID: 330585547}
   - component: {fileID: 330585548}
+  - component: {fileID: 330585549}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1060,6 +1061,103 @@ MonoBehaviour:
   target: {fileID: 2001692354}
   offset: {x: 2, y: 4, z: 0}
   smoothSpeed: 0.125
+--- !u!82 &330585549
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330585543}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 20c55cd2fa24acd43bb646db9838ca20, type: 3}
+  m_Resource: {fileID: 8300000, guid: 20c55cd2fa24acd43bb646db9838ca20, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.29
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &335171437
 GameObject:
   m_ObjectHideFlags: 0
@@ -2283,6 +2381,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4515986704512381322, guid: e5f6583673ed34c45aa270862cada8ea, type: 3}
+      propertyPath: passos
+      value: 
+      objectReference: {fileID: 8300000, guid: 139ead32f43594045a78780dc018fcb7, type: 3}
     - target: {fileID: 8433427799616591368, guid: e5f6583673ed34c45aa270862cada8ea, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.20735812
@@ -8284,6 +8386,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ce96889c910cc8d46b488e4477bee604, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  maisVida: {fileID: 8300000, guid: 3a41f9cf49857d14ba56892a46b0d145, type: 3}
   vidaAtual: 0
   vidaMaxima: 100
   hotDog: {fileID: 1500879098}
@@ -8849,6 +8952,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4883544184914038923, guid: c89a625b90b8c0c44bc7093d12c656f1, type: 3}
+      propertyPath: reputacao
+      value: 
+      objectReference: {fileID: 8300000, guid: ffd9a86e27a98414385732439ae35752, type: 3}
     - target: {fileID: 4883544184914038923, guid: c89a625b90b8c0c44bc7093d12c656f1, type: 3}
       propertyPath: mensagemTMP
       value: 

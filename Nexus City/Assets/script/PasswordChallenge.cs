@@ -18,6 +18,11 @@ public class PasswordChallenge : MonoBehaviour
     [Header("Trigger a ser destruído")]
     public PasswordTrigger triggerScript; // referência ao script do trigger
 
+    [SerializeField] private AudioClip win; //audio de vitoria do puzzle
+    [SerializeField] private AudioClip puzzleDesativo; //audio de desativação do puzzle
+
+
+
     public void CheckPassword()
     {
         string entered = inputField.text.Trim();
@@ -28,6 +33,7 @@ public class PasswordChallenge : MonoBehaviour
         {
             messageText.text = "Desafio concluído!";
             messageText.color = Color.green;
+            AudioSource.PlayClipAtPoint(win, transform.position, 1f); // toca som de vitoria
             StartCoroutine(HidePanelAfterDelay(2f)); // espera 2 segundos
             OnPasswordCorrect();
         }
@@ -53,10 +59,13 @@ public class PasswordChallenge : MonoBehaviour
         {
             playerController.enabled = true;
         }
+
     }
 
     IEnumerator HidePanelAfterDelay(float delay)
     {
+        AudioSource.PlayClipAtPoint(puzzleDesativo, transform.position, 1f); // toca som de desativar puzzle
+
         yield return new WaitForSeconds(delay);
         passwordPanel.SetActive(false);
     }

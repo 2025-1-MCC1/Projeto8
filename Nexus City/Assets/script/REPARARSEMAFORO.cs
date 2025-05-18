@@ -7,6 +7,9 @@ public class TrafficLightRepair : MonoBehaviour
     public GameObject buttonUI;  // Referência ao botão que deve aparecer
     public TrafficLight trafficLightScript; // Referência ao script do semáforo
 
+    [SerializeField] private AudioClip concertado; //audio de concertado
+
+
     void Start()
     {
         // Esconde o botão inicialmente
@@ -40,5 +43,6 @@ public class TrafficLightRepair : MonoBehaviour
 
         // Desativa o botão após o clique
         buttonUI.SetActive(false);  // Esconde o botão de interação
+        AudioSource.PlayClipAtPoint(concertado, transform.position, 1f); // toca som de concertado
     }
 }

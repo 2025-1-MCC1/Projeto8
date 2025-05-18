@@ -1,8 +1,10 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Projectile3D : MonoBehaviour
 {
     public float velocidade = 7f;
+    [SerializeField] private AudioClip impacto; //audio de impacto
 
     void Update()
     {
@@ -14,12 +16,14 @@ public class Projectile3D : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
+            AudioSource.PlayClipAtPoint(impacto, transform.position, 1f); // toca som de impacto
             other.GetComponent<PlayerHealth>()?.LevarDano(10);
             Destroy(gameObject);
         }
 
         if (!other.CompareTag("Enemy"))
         {
+            AudioSource.PlayClipAtPoint(impacto, transform.position, 1f); // toca som de impacto
             Destroy(gameObject);
         }
     }

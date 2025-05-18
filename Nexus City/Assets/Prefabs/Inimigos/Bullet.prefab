@@ -123,6 +123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   IgnoreEnemy: {fileID: 0}
+  waterSplash: {fileID: 8300000, guid: ce16a9b66d87d3746999b8f2e7edd831, type: 3}
 --- !u!54 &-6255910461724197925
 Rigidbody:
   m_ObjectHideFlags: 0
