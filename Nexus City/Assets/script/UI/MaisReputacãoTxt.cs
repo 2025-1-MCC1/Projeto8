@@ -6,9 +6,9 @@ public class MaisReputacãoTxt : MonoBehaviour
 
     void Update()
     {
-        if (gameObject.activeSelf)
+        if (gameObject.activeSelf) //se o objeto estiver ativo
         {
-            StartCoroutine(wait());
+            StartCoroutine(wait()); //começa coroutine
         }
         
     }
@@ -16,8 +16,8 @@ public class MaisReputacãoTxt : MonoBehaviour
 
     public IEnumerator wait()
     {
-        yield return new WaitForSeconds(2f);
-        gameObject.SetActive(false);
+        yield return new WaitForSeconds(2f); // espera 2 segundos
+        gameObject.SetActive(false); // se desativa
 
     }
 }

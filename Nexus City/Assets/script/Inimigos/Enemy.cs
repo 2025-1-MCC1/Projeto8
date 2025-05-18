@@ -12,11 +12,11 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(0.01f, 0, 0);
+        transform.Translate(0.01f, 0, 0); // anda para frente
 
     }
 
-    private void OnCollisionEnter(Collision collision)
+    private void OnCollisionEnter(Collision collision) // colisão
     {
         if ((collision.gameObject.tag == "Barrier") | (collision.gameObject.name == "Player")) //verifica colisão com a barreira e com o player
         {

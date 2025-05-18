@@ -8,7 +8,7 @@ public class Bullet : MonoBehaviour
 
     void Start()
     {
-        Destroy(gameObject, 4f); //destroi a bala após 7 segundos
+        Destroy(gameObject, 4f); //destroi a bala após 4 segundos
     }
 
 

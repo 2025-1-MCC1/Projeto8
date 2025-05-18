@@ -17,19 +17,19 @@ public class Platform : MonoBehaviour
 
     }
 
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter(Collider other) // colisao ao entrar no trigger
     {
-        if (other.gameObject.tag == "Plataforma")
+        if (other.gameObject.tag == "Plataforma") // se colidir com plataforma
         {
-            transform.SetParent(other.transform);
+            transform.SetParent(other.transform); // faz com que a plataforma seja o parent do objeto
         }
     }
 
-    private void OnTriggerExit(Collider other)
+    private void OnTriggerExit(Collider other) // colisao ao sair do trigger
     {
-        if (other.gameObject.tag == "Plataforma")
+        if (other.gameObject.tag == "Plataforma") // se sair da colisao com a plataforma
         {
-            transform.SetParent(null);
+            transform.SetParent(null); // faz com que o objeto não tenha mais parent
         }
     }
 }

@@ -21,12 +21,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Fase2.unity
     guid: fd023abb31639fa48b20867e4888fe15
   - enabled: 1
+    path: Assets/Scenes/ProximaFase 1.unity
+    guid: b3c0da171e5e081468f2c6e6c1d2c24c
+  - enabled: 1
     path: Assets/Scenes/FaseFInal.unity
     guid: 51b91c497e293254390111a0520d373e
   - enabled: 1
     path: Assets/Scenes/Fim.unity
     guid: adcc2f7a06880d840aef0d53e7735a14
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameOver.unity
     guid: adcd5b6c88e0d60418e9386d6797bd50
   m_configObjects:
