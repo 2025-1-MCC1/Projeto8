@@ -13,6 +13,15 @@ TagManager:
   - Dano5
   - Dano10
   - Plataforma
+  - 90dn
+  - 90d
+  - 180d
+  - 0d
+  - 90d90dn
+  - 180d0d
+  - teste
+  - Danger
+  - Comida
   layers:
   - Default
   - TransparentFX

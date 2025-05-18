@@ -12,5 +12,6 @@ public class PuzzleActivator : MonoBehaviour
             puzzleCanvas.SetActive(true); // Mostra o puzzle
             Time.timeScale = 0f; // Pausa o jogo
         }
+
     }
 }

@@ -20,7 +20,7 @@ public class Turret : MonoBehaviour
     }
     void Shoot()
     {
-        var Muzzle = transform.GetChild(1);
+        var Muzzle = gameObject.transform;
 
         Instantiate(bullet, Muzzle.position, Muzzle.rotation);
     }

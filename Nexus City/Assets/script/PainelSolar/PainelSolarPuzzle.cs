@@ -7,6 +7,10 @@ public class PainelSolarPuzzle : MonoBehaviour
     public Button[] terminais; // 3 terminais
     public Button botaoConcluir;
     public Button botaoSair;     // Botão para sair do puzzle
+    public GameObject trigger;
+    public GameObject maisReputacao;
+    private float aumentoReputacao = 10f;
+    public Slider barraReputacao;
 
     private int fioSelecionado = -1;
     private bool[] conectado = new bool[3];
@@ -63,9 +67,14 @@ public class PainelSolarPuzzle : MonoBehaviour
     {
         if (conectado[0] && conectado[1] && conectado[2])
         {
+          
+            trigger.SetActive(false);
             Debug.Log("Puzzle resolvido!");
             gameObject.SetActive(false);
+            maisReputacao.SetActive(true);
             Time.timeScale = 1f;
+            barraReputacao.value = Mathf.Clamp(barraReputacao.value + aumentoReputacao, 0, barraReputacao.maxValue);
+
         }
         else
         {
