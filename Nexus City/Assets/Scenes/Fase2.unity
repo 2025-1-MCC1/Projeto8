@@ -20485,7 +20485,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 099b7a23b724e594f90b567a835b9bba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Vitoria: {fileID: 8300000, guid: 9a6c5eada9beb9244a834adbe6729915, type: 3}
   ProximaFase1: ProximaFase 1
 --- !u!1001 &701345375
 PrefabInstance:
@@ -22396,7 +22395,7 @@ GameObject:
   - component: {fileID: 778459252}
   - component: {fileID: 778459251}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: GameOver
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -43632,6 +43631,18 @@ MonoBehaviour:
       - m_Target: {fileID: 86951169}
         m_TargetAssemblyTypeName: MorteDoPersonagem, Assembly-CSharp
         m_MethodName: ReiniciarCena
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 434694018}
+        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
+        m_MethodName: Play
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
