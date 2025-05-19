@@ -25,12 +25,7 @@
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+
 🎮
 História do Jogo 
 Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não é muito boa. Seu objetivo é modernizar a cidade, tornando-a mais tecnológica e avançada, enfrentando desafios de quebra-cabeças ao longo do caminho. Ao vencer esses desafios, Leo se torna o prefeito, trazendo mais pessoas para morar na cidade.
