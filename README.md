@@ -50,7 +50,6 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
       |-->Projeto Interdisciplinar Jogos Digitais
       |-->Ética e Pensamento Computacional
 |-->executável
-
 A pasta raiz contem dois arquivos que devem ser alterados:
 
 <b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
