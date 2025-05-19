@@ -32,20 +32,24 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+|-->src
+ |-->Jogo
+  |-->Entrega 1
+  |-->Entrega 2
+|-->documentos
+  |-->Entrega 1
+      |-->Algoritmos e Lógica da Programação
+      |-->Cálculo I
+      |-->Jogos Digitais e Sistemas Digitais Interativos
+      |-->Projeto Interdisciplinar Jogos Digitais
+      |-->Ética e Pensamento Computacional
+  |-->Entrega 2
+      |-->Algoritmos e Lógica da Programação
+      |-->Cálculo I
+      |-->Jogos Digitais e Sistemas Digitais Interativos
+      |-->Projeto Interdisciplinar Jogos Digitais
+      |-->Ética e Pensamento Computacional
+|-->executável
 
 A pasta raiz contem dois arquivos que devem ser alterados:
 
