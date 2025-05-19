@@ -3,84 +3,16 @@
   "WorkspaceRootPath": "C:\\aaa\\Projeto8\\Nexus City\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\passwordchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passwordchallenge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86A56E52-DE11-2E39-4D52-5ABF1C206398}|Assembly-CSharp-Editor.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\editor\\aaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A56E52-DE11-2E39-4D52-5ABF1C206398}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\aaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\inimigos\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\bala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\aaa\\Projeto8\\Nexus City\\Assets\\Scripts\\aaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\aaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\inimigos\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\newmonobehaviourscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\inimigos\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\inimigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\repararsemaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\repararsemaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\textofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\textofinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\passwordtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\passwordtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\puzzlecanos\\continue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\puzzlecanos\\continue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\inimigos\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\semaforo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\coletaveis\\powerupdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\coletaveis\\powerupdrone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\loadscene\\proximafase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\loadscene\\proximafase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|c:\\aaa\\projeto8\\nexus city\\assets\\script\\loadscene\\proximacena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\loadscene\\proximacena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\puzzlecanos\\pipesrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\puzzlecanos\\pipesrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\player\\health2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\health2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\painelsolar\\painelsolarpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\painelsolar\\painelsolarpuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\painelsolar\\puzzledeactivateaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\painelsolar\\puzzledeactivateaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\player\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\movimento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\inimigos\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inimigos\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\script\\puzzlecanos\\triggercanos1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\puzzlecanos\\triggercanos1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|C:\\aaa\\Projeto8\\Nexus City\\assets\\scripts\\puzzles\\puzzlecanos\\triggercanos1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC680E88-2631-6F65-AB9B-AB747038B524}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\puzzles\\puzzlecanos\\triggercanos1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,260 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bala.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bala.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\Bala.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bala.cs",
-              "RelativeToolTip": "Assets\\script\\Inimigos\\Bala.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "aaa.cs",
+              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\Editor\\aaa.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\aaa.cs",
+              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\Editor\\aaa.cs",
+              "RelativeToolTip": "Assets\\Editor\\aaa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T20:24:12.957Z",
+              "WhenOpened": "2025-05-19T01:04:37.839Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aaa.cs",
+              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\Scripts\\aaa.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\aaa.cs",
+              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\Scripts\\aaa.cs",
+              "RelativeToolTip": "Assets\\Scripts\\aaa.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T00:58:30.782Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NewMonoBehaviourScript.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\NewMonoBehaviourScript.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\NewMonoBehaviourScript.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\NewMonoBehaviourScript.cs",
-              "RelativeToolTip": "Assets\\script\\Inimigos\\NewMonoBehaviourScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T20:15:53.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "inimigo.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\inimigo.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\inimigo.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\inimigo.cs",
-              "RelativeToolTip": "Assets\\script\\Inimigos\\inimigo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T20:15:11.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PasswordChallenge.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PasswordChallenge.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\PasswordChallenge.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PasswordChallenge.cs",
-              "RelativeToolTip": "Assets\\script\\PasswordChallenge.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAowEEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T20:08:22.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PasswordTrigger.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PasswordTrigger.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\PasswordTrigger.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PasswordTrigger.cs",
-              "RelativeToolTip": "Assets\\script\\PasswordTrigger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T20:05:51.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "textoFinal.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\textoFinal.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\textoFinal.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\textoFinal.cs",
-              "RelativeToolTip": "Assets\\script\\textoFinal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T20:00:52.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "REPARARSEMAFORO.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\REPARARSEMAFORO.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\REPARARSEMAFORO.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\REPARARSEMAFORO.cs",
-              "RelativeToolTip": "Assets\\script\\REPARARSEMAFORO.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T19:55:18.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SEMAFORO.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\SEMAFORO.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\SEMAFORO.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\SEMAFORO.cs",
-              "RelativeToolTip": "Assets\\script\\SEMAFORO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T19:54:40.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PowerUpDrone.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Coletaveis\\PowerUpDrone.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Coletaveis\\PowerUpDrone.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Coletaveis\\PowerUpDrone.cs",
-              "RelativeToolTip": "Assets\\script\\Coletaveis\\PowerUpDrone.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAABkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T19:43:22.656Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Continue.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PuzzleCanos\\Continue.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\PuzzleCanos\\Continue.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PuzzleCanos\\Continue.cs",
-              "RelativeToolTip": "Assets\\script\\PuzzleCanos\\Continue.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:16:01.688Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProximaCena.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\LoadScene\\ProximaCena.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\LoadScene\\ProximaCena.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\LoadScene\\ProximaCena.cs",
-              "RelativeToolTip": "Assets\\script\\LoadScene\\ProximaCena.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T19:08:38.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProximaFase.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\LoadScene\\ProximaFase.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\LoadScene\\ProximaFase.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\LoadScene\\ProximaFase.cs",
-              "RelativeToolTip": "Assets\\script\\LoadScene\\ProximaFase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T19:06:25.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PipesRotation.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PuzzleCanos\\PipesRotation.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\PuzzleCanos\\PipesRotation.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PuzzleCanos\\PipesRotation.cs",
-              "RelativeToolTip": "Assets\\script\\PuzzleCanos\\PipesRotation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T18:06:08.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Health2.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Player\\Health2.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Player\\Health2.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Player\\Health2.cs",
-              "RelativeToolTip": "Assets\\script\\Player\\Health2.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwEgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T17:47:20.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PuzzleDeactivateAudio.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PuzzleDeactivateAudio.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\PainelSolar\\PuzzleDeactivateAudio.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PuzzleDeactivateAudio.cs",
-              "RelativeToolTip": "Assets\\script\\PainelSolar\\PuzzleDeactivateAudio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T17:28:53.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PainelSolarPuzzle.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
-              "RelativeToolTip": "Assets\\script\\PainelSolar\\PainelSolarPuzzle.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwF0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T17:14:06.304Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Turret.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Turret.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\Turret.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Turret.cs",
-              "RelativeToolTip": "Assets\\script\\Inimigos\\Turret.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:43:02.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Inimigos\\Bullet.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Inimigos\\Bullet.cs",
-              "RelativeToolTip": "Assets\\script\\Inimigos\\Bullet.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:42:47.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
               "Title": "TriggerCanos1.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PuzzleCanos\\TriggerCanos1.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\PuzzleCanos\\TriggerCanos1.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\PuzzleCanos\\TriggerCanos1.cs",
-              "RelativeToolTip": "Assets\\script\\PuzzleCanos\\TriggerCanos1.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBgAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\Scripts\\Puzzles\\PuzzleCanos\\TriggerCanos1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Puzzles\\PuzzleCanos\\TriggerCanos1.cs",
+              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\Scripts\\Puzzles\\PuzzleCanos\\TriggerCanos1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Puzzles\\PuzzleCanos\\TriggerCanos1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T16:04:28.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Movimento.cs",
-              "DocumentMoniker": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Player\\Movimento.cs",
-              "RelativeDocumentMoniker": "Assets\\script\\Player\\Movimento.cs",
-              "ToolTip": "C:\\aaa\\Projeto8\\Nexus City\\Assets\\script\\Player\\Movimento.cs",
-              "RelativeToolTip": "Assets\\script\\Player\\Movimento.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwFwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T13:43:31.515Z"
+              "WhenOpened": "2025-05-18T23:47:25.316Z"
             }
           ]
         }

@@ -1,5 +1,5 @@
 using UnityEngine;
-using static UnityEditor.ShaderData;
+
 
 public class TriggerCanos1 : MonoBehaviour
 {
