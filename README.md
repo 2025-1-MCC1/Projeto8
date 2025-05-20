@@ -34,18 +34,32 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
 
 -Raiz<br>
 |<br>
-|-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
+|-->Documentos/Entregas<br>
+  |-->Entrega 1 <br>
+  &emsp;|-->Algoritmos e Lógica de Programação <br>
+  &emsp;|-->Calculo 1 <br>
+  &emsp;|-->Jogos Digitais e Sistema Digitais <br>
+  &emsp;|-->Projeto interdisciplinar Jogos Digitais <br>
+  &emsp;|-->Ética e Pensamento Computacional <br>
+
+  |-->Documentos/Entregas<br>
+  |-->Entrega 2 <br>
+  &emsp;|-->Algoritmos e Lógica de Programação <br>
+  &emsp;|-->Calculo 1 <br>
+  &emsp;|-->Jogos Digitais e Sistema Digitais <br>
+  &emsp;|-->Projeto interdisciplinar Jogos Digitais <br>
+  &emsp;|-->Ética e Pensamento Computacional <br>
+  
 |-->executáveis<br>
   &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
+  &emsp;|-->web<br>
+
 |-->imagens<br>
+&emsp;|-->Personagem <br>
+<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
-|readme.md<br>
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.
 
