@@ -9,7 +9,7 @@
       </a>
 </p>
 
-# Nexus City
+<h1><p align="center"> Nexus City</h1>
 
 ## Nome do Grupo: Visionários da Computação
 
