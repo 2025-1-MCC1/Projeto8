@@ -72,7 +72,7 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
 ## 🛠 Instalação
 
 <h3>Não há instalação! Apenas executável!</h3>
-Encontre o JOGO na pasta Executaveis/Build2 e execute-o como qualquer outro programa.
+Encontre o JOGO na pasta Executaveis/Build2 e execute-o como quiser.
 
 
 ## 📋 Licença/License
