@@ -64,7 +64,7 @@ Há também 4 pastas que seguem da seguinte forma:
 ## 🛠 Instalação
 
 <h3>Não há instalação! Apenas executável!</h3>
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o JOGO na pasta Executaveis/Build2 e execute-o como qualquer outro programa.
 
 
 ## 📋 Licença/License
