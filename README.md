@@ -33,28 +33,26 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
 ## 🛠 Estrutura de pastas
 
 |-->src<br>
-|-->Documentos/Entregas<br>
-      |-->Entrega 1 <br>
-  &emsp;|-->Algoritmos e Lógica de Programação <br>
-  &emsp;|-->Calculo 1 <br>
-  &emsp;|-->Jogos Digitais e Sistema Digitais <br>
-  &emsp;|-->Projeto interdisciplinar Jogos Digitais <br>
-  &emsp;|-->Ética e Pensamento Computacional <br>
-|-->Documentos/Entregas<br>
-      |-->Entrega 2 <br>
-  &emsp;|-->Algoritmos e Lógica de Programação <br>
-  &emsp;|-->Calculo 1 <br>
-  &emsp;|-->Jogos Digitais e Sistema Digitais <br>
-  &emsp;|-->Projeto interdisciplinar Jogos Digitais <br>
-  &emsp;|-->Ética e Pensamento Computacional <br>
+&emsp;|-->Documentos/Entregas<br>
+&emsp;&emsp;|-->Entrega 1 <br>
+&emsp;&emsp;&emsp;|-->Algoritmos e Lógica de Programação <br>
+&emsp;&emsp;&emsp;|-->Calculo 1 <br>
+&emsp;&emsp;&emsp;|-->Jogos Digitais e Sistema Digitais <br>
+&emsp;&emsp;&emsp;|-->Projeto interdisciplinar Jogos Digitais <br>
+&emsp;&emsp;&emsp;|-->Ética e Pensamento Computacional <br>
+&emsp;&emsp;|-->Entrega 2 <br>
+&emsp;&emsp;&emsp;|-->Algoritmos e Lógica de Programação <br>
+&emsp;&emsp;&emsp;|-->Calculo 1 <br>
+&emsp;&emsp;&emsp;|-->Jogos Digitais e Sistema Digitais <br>
+&emsp;&emsp;&emsp;|-->Projeto interdisciplinar Jogos Digitais <br>
+&emsp;&emsp;&emsp;|-->Ética e Pensamento Computacional <br>
 |-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->web<br>
+&emsp;|-->windows<br>
+&emsp;|-->web<br>
 |-->imagens<br>
 &emsp;|-->Personagem <br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+&emsp;|-->Backend<br>
+&emsp;|-->Frontend<br>
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.
 
