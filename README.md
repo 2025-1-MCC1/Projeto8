@@ -26,8 +26,7 @@
 
 
 
-🎮
-História do Jogo 
+<h3>🎮História do Jogo <br></h3>
 Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não é muito boa. Seu objetivo é modernizar a cidade, tornando-a mais tecnológica e avançada, enfrentando desafios de quebra-cabeças ao longo do caminho. Ao vencer esses desafios, Leo se torna o prefeito, trazendo mais pessoas para morar na cidade.
 
 ## 🛠 Estrutura de pastas
