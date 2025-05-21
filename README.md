@@ -32,7 +32,6 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
 
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
 |-->src<br>
 |-->Documentos/Entregas<br>
       |-->Entrega 1 <br>
