@@ -1,5 +1,5 @@
 
-# FECAP - Fundação de Comércio Álvares Penteado
+# <p align="center"> FECAP - Fundação de Comércio Álvares Penteado
 
 <p align="center">
       <a href="https://www.fecap.br/">
@@ -11,11 +11,11 @@
 
 <h1><p align="center"> Nexus City</h1>
 
-## <p align="center"> Nome do Grupo <br> Visionários da Computação
+## <p align="center"> Nome do Grupo: <br> Visionários da Computação
 
-## <p align="center"> Integrantes <br/> <a href="https://www.linkedin.com/in/pedro-vitor-149051349/">Pedro Vitor</a> &nbsp; <a href="https://www.linkedin.com/in/ricardo-santos-6b92b4346/">Ricardo Oliveira</a> &nbsp; <a href="http://www.linkedin.com/in/stefanysocubertino">Stefany Oliveira</a> &nbsp; <a href="https://br.linkedin.com/in/lucio-vecchio">Lúcio Vecchio</a> 
+## <p align="center"> Integrantes <br/> <a href="https://www.linkedin.com/in/pedro-vitor-149051349/">Pedro Vitor,</a> &nbsp; <a href="https://www.linkedin.com/in/ricardo-santos-6b92b4346/">Ricardo Oliveira,</a> &nbsp; <a href="http://www.linkedin.com/in/stefanysocubertino">Stefany Oliveira,</a> &nbsp; <a href="https://br.linkedin.com/in/lucio-vecchio">Lúcio Vecchio</a> 
 
-## <p align="center"> Professores Orientadores <br/> <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente</a> &nbsp; <a href="https://www.linkedin.com/in/luisspires/?originalSubdomain=br">Luis Fernando dos Santos Pires</a> &nbsp; <br><a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes</a> &nbsp; <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a> &nbsp; <br> <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a> &nbsp; <a href="https://www.linkedin.com/school/fecap/posts/?feedView=all">Joyce Daniele Tavares</a>
+## <p align="center"> Professores Orientadores <br/> <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Felix Valente,</a> &nbsp; <a href="https://www.linkedin.com/in/luisspires/?originalSubdomain=br">Luis Fernando dos Santos Pires,</a> &nbsp; <br><a href="https://www.linkedin.com/in/dolemes/">David de Oliveira Lemes,</a> &nbsp; <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento,</a> &nbsp; <br> <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Queiroz,</a> &nbsp; <a href="https://www.linkedin.com/school/fecap/posts/?feedView=all">Joyce Daniele Tavares</a>
 
 ## Descrição
 
