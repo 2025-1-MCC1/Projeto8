@@ -53,7 +53,6 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
   &emsp;|-->web<br>
 |-->imagens<br>
 &emsp;|-->Personagem <br>
-<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
