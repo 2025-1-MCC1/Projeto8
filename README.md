@@ -32,7 +32,6 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
 
 ## 🛠 Estrutura de pastas
 
-|-->src<br>
 &emsp;|-->Documentos/Entregas<br>
 &emsp;&emsp;|-->Entrega 1 <br>
 &emsp;&emsp;&emsp;|-->Algoritmos e Lógica de Programação <br>
@@ -46,13 +45,13 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
 &emsp;&emsp;&emsp;|-->Jogos Digitais e Sistema Digitais <br>
 &emsp;&emsp;&emsp;|-->Projeto interdisciplinar Jogos Digitais <br>
 &emsp;&emsp;&emsp;|-->Ética e Pensamento Computacional <br>
-|-->executáveis<br>
+|-->Executáveis/Build2<br>
 &emsp;|-->windows<br>
 &emsp;|-->web<br>
 |-->imagens<br>
 &emsp;|-->Personagem <br>
-&emsp;|-->Backend<br>
-&emsp;|-->Frontend<br>
+|-->src<br>
+&emsp;|-->Backend/Nexus City<br>
 
 <b>documentos</b>: Toda a documentação estará nesta pasta.
 
