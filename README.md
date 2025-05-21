@@ -21,7 +21,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/2025-1-MCC1/Projeto8/blob/main/Imagens/NEXUS%20CITY.png?raw=true" alt="NOME DO JOGO" border="0"> Game by <a href="https://www.linkedin.com/in/pedro-vitor-149051349/">Pedro Vitor</a> &nbsp; <a href="https://www.linkedin.com/in/ricardo-santos-6b92b4346/">Ricardo Oliveira</a> &nbsp; <a href="http://www.linkedin.com/in/stefanysocubertino">Stefany Oliveira</a> &nbsp; <a href="https://br.linkedin.com/in/lucio-vecchio">Lúcio Vecchio</a> 
+  <img src="https://github.com/2025-1-MCC1/Projeto8/blob/main/Imagens/NEXUS%20CITY.png?raw=true" alt="NOME DO JOGO" border="0"> Game by &nbsp; <a href="https://www.linkedin.com/in/pedro-vitor-149051349/">Pedro Vitor</a> &nbsp; <a href="https://www.linkedin.com/in/ricardo-santos-6b92b4346/">Ricardo Oliveira</a> &nbsp; <a href="http://www.linkedin.com/in/stefanysocubertino">Stefany Oliveira</a> &nbsp; <a href="https://br.linkedin.com/in/lucio-vecchio">Lúcio Vecchio</a> 
 </p>
 
 
