@@ -53,13 +53,10 @@ Leo se muda para uma cidade velha e abandonada, onde sua qualidade de vida não 
 |-->src<br>
 &emsp;|-->Backend/Nexus City<br>
 
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>Executaveis/Build2</b>: Executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do jogo 
-
-<b>src</b>: Pasta que contém o código fonte.
+<b>documentos</b>: Toda a documentação estará nesta pasta.<br>
+<b>Executaveis/Build2</b>: Executáveis do projeto devem estar nesta pasta.<br>
+<b>imagens</b>: Imagens do jogo <br>
+<b>src</b>: Pasta que contém o código fonte.<br>
 
 ## 🛠 Instalação
 
